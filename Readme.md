@@ -19,6 +19,4 @@ The Expense Tracker is a web application designed to help users manage their exp
 - **Forms**: Flask-WTF
 - **Styling**: External CSS (including Normalize.css)
 
-## Installation
-
 
